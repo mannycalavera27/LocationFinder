@@ -11,7 +11,7 @@ import SwiftUI
 struct LocationFinderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LocationFinderView()
         }
     }
 }
